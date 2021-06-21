@@ -150,6 +150,7 @@ scroll_img {
 .card {
     border-radius: 8px;
     border: 2px solid black;
+    box-shadow: 16px 16px 8px grey;
     padding: 15px;
 }
 hr {
